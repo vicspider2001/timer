@@ -1,4 +1,4 @@
-const timer = function () {
+const timer = function() {
   // Start from index 2 as index 0 is 'node' and index 1 is the script name
   let userInput = process.argv.slice(2);
 
